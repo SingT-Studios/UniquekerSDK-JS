@@ -1,5 +1,5 @@
 # UniquekerSDK-JS
-这是一个为水滴聚合登录(uniqueker.top)设计的Javascript-SDK。
+这是一个为水滴聚合登录（uniqueker.top，蜀ICP备2021028672号 | 川公网安备51072302110050号）设计的Javascript-SDK。
 
 官网开发文档：
 https://www.yuque.com/wpsea/uniqueker/sqibv6#BNIuU（官网发布）
